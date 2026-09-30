@@ -1,3 +1,5 @@
+# ARIS
+
 A conceptual robotics website designed and developed using HTML and CSS.
 
 The project presents ARIS (Autonomous Residential Intelligence System), a fictional residential robot concept through a structured engineering-style web interface.
